@@ -103,7 +103,7 @@ Financial institutions need a reliable way to **predict loan defaults** in order
 ## 📬 Contact
 
 Feel free to connect or ask questions:  
-**[Your LinkedIn Name or Email]**
+**[https://www.linkedin.com/in/nour-ahmed-13677531b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]**
 
 ---
 
