@@ -88,15 +88,6 @@ Financial institutions need a reliable way to **predict loan defaults** in order
 - GridSearchCV  
 - RFE
 
----
-
-## 📁 Files in This Repo
-
-- `loan_default_prediction.ipynb` – Full notebook  
-- `README.md` – Project documentation  
-- `loan_data.csv` – (optional or link to Kaggle)  
-- `confusion_matrix.png` – Model performance  
-- `requirements.txt` – Libraries used (optional)
 
 ---
 
